@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+- 👨‍💻 I am a computer engineering student at the Universidad Autónoma de Madrid in Spain 🇪🇸.
+- 😋 In this profile, I plan to upload solutions of the programming competitions exercises 🤓 as well as anything related to computing that I find interesting 🤔
+- 🗣 If you want to comment on any solution or want to ask or talk to me about anything, I will be happy to talk to you
+- 📩 Twitter: @dgr_099
+
 <!--
 **dgr099/dgr099** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,4 +18,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
