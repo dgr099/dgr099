@@ -1,9 +1,8 @@
 ### Hi there 👋
 
-- 👨‍💻 I am a computer engineering student at the Universidad Autónoma de Madrid in Spain 🇪🇸.
+- 👨‍💻 I am a cybersecurity engineer
 - 😋 In this profile, I plan to upload solutions of the programming competitions exercises 🤓 as well as anything related to computing that I find interesting 🤔
 - 🗣  If you want to comment on any solution or want to ask or talk to me about anything, I will be happy to talk to you
-- 📩 Twitter: @dgr_099
 - 📫 Mail: davidteo.garita@gmail.com
 
 <!--
